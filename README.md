@@ -4,7 +4,7 @@ I'm a Front-End Developer focused on JavaScript, especially React and Next, and 
 
 I'm graduated in Law, but I've had contact with technology ever since I was a cub and gave in to my interest in it.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstvz/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstvz/)](https://www.linkedin.com/in/gstvz/)
 
 ## Skills 🚀
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
