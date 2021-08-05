@@ -1,8 +1,8 @@
 ### Welcome to my profile 👋!
 
-I'm a Front-End Developer focused on JavaScript, especially React and Next, and currently a undergraduate in Systems Analysis and Development.
+I'm a Front-End Developer focused on JavaScript, especially React and Next. Also, I'm currently an undergraduate student in Systems Analysis and Development.
 
-I'm graduated in Law, but I've had contact with technology ever since I was a cub and gave in to my interest in it.
+I'm a bachelor in Law, but I've had contact with technology ever since I was a cub and gave in to my interest in it.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstvz/)](https://www.linkedin.com/in/gstvz/)
 
