@@ -12,8 +12,10 @@ Bachelor in Law at <a href="https://uenp.edu.br/">UENP</a>.
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=FFF&color:FFF)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=FFF&color:FFF)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=FFF&color:FFF)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=FFF&color:FFF)
 ![React,js](https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=FFF&color:FFF)
 ![Next Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=FFF&color:FFF)
 
 ## GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gstvz&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstvz&layout=compact&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true)](https://github.com/elidianaandrade/github-readme-stats"/>
