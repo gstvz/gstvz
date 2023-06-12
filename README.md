@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋!
 
-I'm a developer at <a href="https://luby.com.br/">Luby</a>, focused on front-end with JavaScript.
+I'm a front-end developer, with experience in the JavaScript environment (TypeScript, React, React Native, Next), mainly by developing apps, websites and administrative dashboards for the digital transformation of businesses.
 
 Undergrad student in Systems Analysis and Development at <a href="https://www.fatecourinhos.edu.br/aluno/">FATEC Ourinhos</a>.
 
