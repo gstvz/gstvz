@@ -1,6 +1,8 @@
 ### Welcome to my profile 👋!
 
-I'm a Software Developer with experience in the digital transformation of businesses, through the development of APIs, dashboards, mobile apps and websites.
+I'm a Developer focused on the front end, with experience in the development of websites, administrative panels and mobile applications.
+
+I also have experience in the back end, through the development of REST APIs.
 
 Undergrad student in Systems Analysis and Development at <a href="https://www.fatecourinhos.edu.br/aluno/">FATEC Ourinhos</a>.
 
